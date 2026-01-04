@@ -4,7 +4,7 @@
 🚀 Aspiring Data Scientist | Machine Learning Enthusiast | Full-Stack Developer
 
 💡 About Me
-🎓 4rd-year B.Tech Electronics and Computer Engineering student at Thapar University
+🎓 4th-year B.Tech Electronics and Computer Engineering student at Thapar University
 
 🧠 Passionate about Machine Learning, Data Science, and Full-Stack Web Development
 
